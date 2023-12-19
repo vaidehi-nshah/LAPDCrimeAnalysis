@@ -19,7 +19,7 @@ This code is written in PySpark and uses different libraries of Python (like Pan
 
 **TABLEAU DASHBOARDS:**
 
-Here is the link to the Tableau Dashboards made for the submission: [Tableau Dashboard](https://public.tableau.com/app/profile/vaidehi.shah2241/viz/cs777_time_difference/LACrimeAnalytics)
+Here is the link to the Tableau Dashboards made for the submission: [Tableau Dashboard](https://public.tableau.com/app/profile/vaidehi.shah2241/viz/cs777_time_difference/LACrimeAnalytics){:target="_blank"}
 
 
 ### Achievements:
